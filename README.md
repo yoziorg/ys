@@ -1,2 +1,2 @@
-# yslredirect
-yslredirect
+# ys
+ys
